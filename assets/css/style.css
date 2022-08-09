@@ -137,6 +137,11 @@ footer {
   display: none;
 }
 
+#img-5,
+#img-6 {
+  display: none;
+}
+
 /* ANIMATIONS */
 
 /* Tipos de sorvete indo de cima para baixo */ 
