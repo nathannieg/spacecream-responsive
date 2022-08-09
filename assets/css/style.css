@@ -273,10 +273,12 @@ footer {
 
   #img-5 {
     grid-area: c;
+    display: block;
   }
 
   #img-6 {
     grid-area: f;
+    display: block;
   }
 
   .image img {
